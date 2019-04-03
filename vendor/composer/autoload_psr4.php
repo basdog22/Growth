@@ -53,6 +53,8 @@ return array(
     'Pvtl\\VoyagerPages\\' => array($vendorDir . '/pvtl/voyager-pages/src'),
     'Pvtl\\VoyagerPageBlocks\\' => array($vendorDir . '/pvtl/voyager-page-blocks/src'),
     'Pvtl\\VoyagerFrontend\\' => array($vendorDir . '/pvtl/voyager-frontend/src'),
+    'Pvtl\\VoyagerForms\\Database\\' => array($vendorDir . '/pvtl/voyager-forms/database'),
+    'Pvtl\\VoyagerForms\\' => array($vendorDir . '/pvtl/voyager-forms/src'),
     'Pvtl\\VoyagerBlog\\' => array($vendorDir . '/pvtl/voyager-blog/src'),
     'Psy\\' => array($vendorDir . '/psy/psysh/src'),
     'Psr\\SimpleCache\\' => array($vendorDir . '/psr/simple-cache/src'),
