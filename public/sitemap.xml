@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>http://localdev.loc/voyager/public</loc>
+        <lastmod>2019-04-03T05:24:23+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>http://localdev.loc/voyager/public/</loc>
+        <lastmod>2019-04-03T05:24:22+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>http://localdev.loc/voyager/public/login</loc>
+        <lastmod>2019-04-03T05:24:22+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>http://localdev.loc/voyager/public/password/reset</loc>
+        <lastmod>2019-04-03T05:24:23+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>http://localdev.loc/voyager/public/register</loc>
+        <lastmod>2019-04-03T05:24:22+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+</urlset>
